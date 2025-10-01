@@ -84,10 +84,6 @@ The project uses the World Happiness Report (2005–2022) dataset sourced from K
 - **Interactive Tableau Visualisations**: [View Dashboard](https://public.tableau.com/app/profile/gemma.hearne/viz/Task6_7WorldHappinessReportAnalysis2005-2022/WorldHappinessReportAnalysis2005-2022)
 
 ---
-## Disclaimer
-This dataset was sourced for educational purposes as part of the **Career Foundry Data Analytics** course from **Kaggle**.
-
----
 
 ## How to Use this Repository
 - Open the **Scripts/** folder to view Jupyter notebooks for each analysis step (EDA, regression, clustering, mapping).
@@ -95,3 +91,8 @@ This dataset was sourced for educational purposes as part of the **Career Foundr
 - View visualisations in the **Analysis/** folder.
 
 - Explore the Tableau workbook in the published **Dashboard** [here](https://public.tableau.com/app/profile/gemma.hearne/viz/Task6_7WorldHappinessReportAnalysis2005-2022/WorldHappinessReportAnalysis2005-2022)
+
+---
+
+## Disclaimer
+This dataset was sourced for educational purposes as part of the **Career Foundry Data Analytics** course from **Kaggle**.
